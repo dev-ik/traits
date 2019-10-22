@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Trait FindOrCreate
+ * Using into yii2 models
+ */
 trait FindOrCreate
 {
     /**
